@@ -270,10 +270,7 @@ python -m pytest tests/
 ## 🏆 Team
 
 **ClimateGuardian Development Team**
-- **Lead Developer**: [Your Name] - AI/ML Engineer
-- **Data Scientist**: [Team Member] - Climate Data Specialist  
-- **UX Designer**: [Team Member] - Human-Computer Interaction
-- **Climate Expert**: [Team Member] - Environmental Policy Advisor
+- **Developer(s)**: *Mr.Uday Kiran Cheera* and *Mr.Tarun Chintada* 
 
 ---
 
@@ -289,15 +286,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Climate Data Providers** for open dataset access
 - **Global Climate Community** for continuous feedback and validation
 - **IBM Call for Code** for inspiring climate action through technology
-
----
-
-## 📞 Contact
-
-- **Project Homepage**: [https://climateguardian.ai](https://climateguardian.ai)
-- **Email**: team@climateguardian.ai
-- **Twitter**: [@ClimateGuardian](https://twitter.com/ClimateGuardian)
-- **LinkedIn**: [ClimateGuardian AI](https://linkedin.com/company/climateguardian-ai)
 
 ---
 
