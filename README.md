@@ -270,7 +270,7 @@ python -m pytest tests/
 ## 🏆 Team
 
 **ClimateGuardian Development Team**
-- **Developer(s)**: *Mr.Uday Kiran Cheera* and *Mr.Tarun Chintada* 
+- **Developer(s)**: *Mr. Uday Kiran Cheera* and *Mr. Tarun Chintada* 
 
 ---
 
